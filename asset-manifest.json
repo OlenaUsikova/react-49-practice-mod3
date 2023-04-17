@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-49-practice-mod3/static/css/main.7acaea2f.css",
+    "main.js": "/react-49-practice-mod3/static/js/main.f7a827b8.js",
+    "index.html": "/react-49-practice-mod3/index.html",
+    "main.7acaea2f.css.map": "/react-49-practice-mod3/static/css/main.7acaea2f.css.map",
+    "main.f7a827b8.js.map": "/react-49-practice-mod3/static/js/main.f7a827b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.f7a827b8.js"
+  ]
+}
