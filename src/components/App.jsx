@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { MoviesGallery } from './MoviesGallery/MoviesGallery';
-
 import { Modal } from './Modal/Modal';
 import { fetchMovies } from 'services/movie-api';
 import { Button } from './Button/Button';
