@@ -2,7 +2,7 @@ import { Component } from "react";
 
 export class Modal extends Component{
     render(){
-        const {src, alt} = this.props.currentPoster
+        const {src, alt} = this.props.poster
         return(
         <div>
             <div>
